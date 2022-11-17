@@ -1,6 +1,8 @@
-# Hey there! :wave: I'm Meharab
+# **Hey there! :wave: I'm *Meharab***
 
-## 🛠 &nbsp;[Click here to view all my Projects in details](https://meharab.github.io)
+<!--br-->
+
+## 🛠 &nbsp;[CLICK HERE TO VIEW ALL OF MY PROJECTS IN DETAILS](https://meharab.github.io)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -11,10 +13,11 @@
 </a>
 </p>
 
-#### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p>
 <a href="https://www.meharab.github.io"><img src="https://img.shields.io/badge/-meharab.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/meharab124"><img src="https://img.shields.io/badge/-Meharab-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!--a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a-->
+  <a href="https://twitter.com/LatifMeharab"><img src="https://img.shields.io/badge/-Meharab-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
