@@ -1,4 +1,4 @@
-# **Hey there! :wave: I'm *Meharab***
+# **Hey there! 👋 I'm *Meharab***
 
 <!--br-->
 
