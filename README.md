@@ -1,6 +1,12 @@
 # **Hey there! 👋 I'm *Meharab***
 
-<!--br-->
+<!--script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="meharab124" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/meharab124?trk=profile-badge">Meharab L.</a>
+</div>      
+
+<br-->
 
 ## 🛠 &nbsp;[CLICK HERE TO VIEW ALL OF MY PROJECTS IN DETAILS](https://meharab.github.io)
 
