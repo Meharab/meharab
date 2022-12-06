@@ -1,4 +1,4 @@
-# **Hey there! 👋 I'm *Meharab***
+# **Hey there! 👋 I'm _Meharab_**
 
 <!--script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
