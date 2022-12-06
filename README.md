@@ -27,3 +27,5 @@
 <!--a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a-->
   <a href="https://twitter.com/LatifMeharab"><img src="https://img.shields.io/badge/-Meharab-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I3GTC5K)
