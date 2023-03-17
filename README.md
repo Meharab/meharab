@@ -35,3 +35,5 @@
 <a href="https://www.buymeacoffee.com/meharablatQ"><img height="43px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=meharablatQ&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <a href="#"><img onclick=logBadgeClick() id="badge-button" style="width:240px;height:53px" src="https://static.alchemyapi.io/images/marketing/badge.png" alt="Alchemy Supercharged" /></a> <a href="#"><img onclick=logBadgeClick() id="badge-button" style="width:240px;height:53px" src="https://static.alchemyapi.io/images/marketing/badgeLight.png" alt="Alchemy Supercharged" /></a>
+
+[![An image of @meharab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meharab)](https://holopin.io/@meharab)
