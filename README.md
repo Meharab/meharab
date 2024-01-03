@@ -10,10 +10,10 @@
 <br-->
 
 
-## 🛠 &nbsp;[CLICK HERE TO VIEW ALL OF MY PROJECTS IN DETAILS](https://meharab.github.io)
+### 🛠 &nbsp;[CLICK HERE TO VIEW ALL OF MY PROJECTS IN DETAILS](https://meharab.github.io)
 
 
-### 🤝🏻 &nbsp;Connect with Me
+# 🤝🏻 &nbsp;Connect with Me
 
 <p>
   <a href="https://www.meharab.github.io"><img src="https://img.shields.io/badge/-Meharab-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -23,7 +23,7 @@
 </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+# ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/meharab">
@@ -33,13 +33,13 @@
 </p>
 
 
-### ❤ Support Me
+# ❤ Support Me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I3GTC5K)
 
 <a href="https://www.buymeacoffee.com/meharablatQ"><img height="43px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=meharablatQ&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-### 🎭 Check out my badges
+# 🎭 Check out my badges
 [![An image of @meharab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meharab)](https://holopin.io/@meharab)
 
 
