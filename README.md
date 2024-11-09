@@ -42,6 +42,8 @@
 # 🎭 Check out my badges
 [![An image of @meharab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meharab)](https://holopin.io/@meharab)
 
+![](https://raw.githubusercontent.com/gith-u-b/resource_share/c1f58ad965310d800b516cbd49b7126908f5072d/github-contribution-grid-snake-light.svg)
+
 
 <a href="#"><img onclick=logBadgeClick() id="badge-button" style="width:240px;height:53px" src="https://static.alchemyapi.io/images/marketing/badge.png" alt="Alchemy Supercharged" /></a> 
 <a href="#"><img onclick=logBadgeClick() id="badge-button" style="width:240px;height:53px" src="https://static.alchemyapi.io/images/marketing/badgeLight.png" alt="Alchemy Supercharged" /></a>
